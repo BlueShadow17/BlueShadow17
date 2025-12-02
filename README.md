@@ -7,5 +7,5 @@
 </a>
 
 <a href="https://github.com/BlueShadow17">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BlueShadow17&show_icons=true&theme=radical" height="400"/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BlueShadow17&show_icons=true&theme=radical" height="400" lenght="350"/>
 </a>
