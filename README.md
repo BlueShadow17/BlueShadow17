@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/BlueShadow17">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=BlueShadow17&theme=radical&langs_count=10" height="150"/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=BlueShadow17&theme=radical&langs_count=10" height="200"/>
 </a>
 
 <a href="https://github.com/BlueShadow17">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BlueShadow17&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BlueShadow17&show_icons=true&theme=radical" height="200"/>
 </a>
